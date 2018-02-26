@@ -1,0 +1,6 @@
+#
+# robots.txt for CMS 3.0 Admin Part
+#
+
+User-agent: *
+Disallow: /
